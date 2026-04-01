@@ -1,0 +1,552 @@
+Flower_Type,Date,Day_of_Week,Weekend_Days,Month,Season,Supplier,Quantity_Sold_kg,Total_Sales_kg,Wholesale_Price_per_kg,Retail_Price_per_kg,Festival,Wedding,Competitor_Price,Holiday
+Chemparuthi,2025-06-19,Thursday,No,6,Summer,Sankagiri Traders,71,71,63,204,,No,190,No
+Samanthi,2025-02-20,Thursday,No,2,Winter,Houser,44,44,125,179,,No,148,No
+Malligai,2025-09-12,Friday,No,9,Monsoon,Mettur Farm,78,78,1950,2233,,No,2212,No
+Thulasi Poo,2025-06-28,Saturday,Yes,6,Summer,Attur Market,97,97,190,325,,No,301,Yes
+Malligai,2025-08-04,Monday,No,8,Monsoon,Namakkal,26,26,1664,2029,,No,2002,No
+Chemparuthi,2025-02-27,Thursday,No,2,Winter,Sankagiri Traders,54,54,115,227,,No,203,No
+Arali,2025-08-20,Wednesday,No,8,Monsoon,Namakkal,93,93,493,629,,No,615,No
+Samanthi,2025-05-17,Saturday,Yes,5,Summer,Houser,70,70,70,343,,No,322,Yes
+Jaathi Malligai,2025-07-10,Thursday,No,7,Monsoon,Sankagiri Traders,23,23,1384,1771,,No,1745,No
+Kanakambaram,2025-07-23,Wednesday,No,7,Monsoon,Namakkal,52,52,935,1005,,No,974,No
+Paneer Roja,2025-03-27,Thursday,No,3,Spring,Salem Farm,28,28,166,267,,No,240,No
+Lotus,2025-10-06,Monday,No,10,Autumn,Salem Farm,98,98,529,699,,No,675,No
+Kanakambaram,2025-09-14,Sunday,Yes,9,Monsoon,Namakkal,68,68,637,950,,No,926,Yes
+Samanthi,2025-01-20,Monday,No,1,Winter,Vazhapadi Farm,149,149,93,552,,Yes,573,No
+Kanakambaram,2025-10-28,Tuesday,No,10,Autumn,Sankagiri Traders,95,95,720,984,,No,970,No
+Samanthi,2025-02-11,Tuesday,No,2,Winter,Attur Market,158,158,74,426,Thaipusam,No,496,No
+Arali,2025-06-25,Wednesday,No,6,Summer,Omalur Garden,76,76,284,362,,No,351,No
+Vada Malligai,2025-02-16,Sunday,Yes,2,Winter,Mettur Farm,23,23,858,936,,No,901,Yes
+Jaathi Malligai,2025-09-12,Friday,No,9,Monsoon,Omalur Garden,74,74,1399,1759,,No,1747,No
+Kanakambaram,2025-08-08,Friday,No,8,Monsoon,Vazhapadi Farm,44,44,550,619,,No,589,No
+Kanakambaram,2025-07-16,Wednesday,No,7,Monsoon,Attur Market,28,28,802,1130,,No,1102,No
+Paneer Roja,2025-09-10,Wednesday,No,9,Monsoon,Vazhapadi Farm,74,74,335,597,,No,578,No
+Paneer Roja,2025-07-23,Wednesday,No,7,Monsoon,Namakkal Link Market,96,96,201,304,,No,283,No
+Malligai,2025-08-28,Thursday,No,8,Monsoon,Vazhapadi Farm,63,63,2133,2387,,No,2347,No
+Roja,2025-08-09,Saturday,Yes,8,Monsoon,Sankagiri Traders,70,70,88,360,,No,334,Yes
+Paneer Roja,2025-06-27,Friday,No,6,Summer,Sankagiri Traders,92,92,165,255,,No,215,No
+Malligai,2025-03-26,Wednesday,No,3,Spring,Houser,68,68,1770,1874,,No,1851,No
+Kanakambaram,2025-03-08,Saturday,Yes,3,Spring,Namakkal Link Market,59,59,544,840,,No,816,Yes
+Chemparuthi,2025-08-24,Sunday,Yes,8,Monsoon,Namakkal Link Market,189,189,54,481,,Yes,544,Yes
+Thulasi Poo,2025-04-14,Monday,No,4,Spring,Vazhapadi Farm,89,89,219,667,Tamil New Year,No,739,No
+Thulasi Poo,2025-06-02,Monday,No,6,Summer,Houser,47,47,209,583,,No,560,No
+Jaathi Malligai,2025-09-11,Thursday,No,9,Monsoon,Attur Market,43,43,1633,1877,,No,1866,No
+Thulasi Poo,2025-03-01,Saturday,Yes,3,Spring,Sankagiri Traders,46,46,233,396,,No,383,Yes
+Thulasi Poo,2025-01-18,Saturday,Yes,1,Winter,Omalur Garden,45,45,167,235,,No,200,Yes
+Kanakambaram,2025-06-22,Sunday,Yes,6,Summer,Salem Farm,76,76,623,839,,No,805,Yes
+Thulasi Poo,2025-02-26,Wednesday,No,2,Winter,Houser,114,114,192,704,Shivaratri,No,740,No
+Jaathi Malligai,2025-06-02,Monday,No,6,Summer,Namakkal Link Market,78,78,1725,1778,,No,1746,No
+Roja,2025-10-04,Saturday,Yes,10,Autumn,Houser,184,184,130,338,Navaratri,No,374,Yes
+Samanthi,2025-11-01,Saturday,Yes,11,Autumn,Namakkal,240,240,128,397,Deepavali,No,440,Yes
+Chemparuthi,2025-04-15,Tuesday,No,4,Spring,Attur Market,37,37,86,453,,No,424,No
+Roja,2025-06-10,Tuesday,No,6,Summer,Omalur Garden,55,55,163,308,,No,296,No
+Paneer Roja,2025-06-15,Sunday,Yes,6,Summer,Attur Market,36,36,270,619,,No,592,Yes
+Jaathi Malligai,2025-08-06,Wednesday,No,8,Monsoon,Vazhapadi Farm,85,85,1242,1341,,No,1319,No
+Lotus,2025-11-03,Monday,No,11,Autumn,Houser,70,70,346,630,,No,593,No
+Lotus,2025-02-17,Monday,No,2,Winter,Houser,98,98,428,491,,No,451,No
+Kanakambaram,2025-09-17,Wednesday,No,9,Monsoon,Attur Market,20,20,652,890,,No,852,No
+Malligai,2025-05-12,Monday,No,5,Summer,Omalur Garden,26,26,2177,2501,,No,2476,No
+Chemparuthi,2025-10-31,Friday,No,10,Autumn,Houser,68,68,55,240,,No,205,No
+Lotus,2025-01-14,Tuesday,No,1,Winter,Sankagiri Traders,94,94,544,1053,Pongal,No,1077,No
+Lotus,2025-06-10,Tuesday,No,6,Summer,Omalur Garden,74,74,608,923,,No,886,No
+Samanthi,2025-08-10,Sunday,Yes,8,Monsoon,Omalur Garden,74,74,78,445,,No,412,Yes
+Samanthi,2025-03-02,Sunday,Yes,3,Spring,Namakkal Link Market,74,74,87,444,,No,416,Yes
+Samanthi,2025-09-04,Thursday,No,9,Monsoon,Omalur Garden,90,90,82,170,,No,134,No
+Thulasi Poo,2025-10-09,Thursday,No,10,Autumn,Omalur Garden,49,49,140,234,,No,224,No
+Malligai,2025-06-04,Wednesday,No,6,Summer,Sankagiri Traders,35,35,2194,2504,,No,2485,No
+Jaathi Malligai,2025-11-30,Sunday,Yes,11,Autumn,Namakkal Link Market,91,91,1506,1819,,No,1792,Yes
+Malligai,2025-10-24,Friday,No,10,Autumn,Mettur Farm,41,41,1456,1533,,No,1509,No
+Kanakambaram,2025-12-29,Monday,No,12,Winter,Vazhapadi Farm,87,87,566,849,,No,818,No
+Roja,2025-08-02,Saturday,Yes,8,Monsoon,Houser,54,54,88,254,,No,240,Yes
+Jaathi Malligai,2025-01-25,Saturday,Yes,1,Winter,Houser,54,54,1292,1494,,No,1484,Yes
+Thulasi Poo,2025-07-21,Monday,No,7,Monsoon,Omalur Garden,89,89,163,562,,No,540,No
+Kanakambaram,2025-01-13,Monday,No,1,Winter,Salem Farm,60,60,668,1003,,No,980,No
+Jaathi Malligai,2025-07-26,Saturday,Yes,7,Monsoon,Sankagiri Traders,70,70,1624,1792,,No,1772,Yes
+Arali,2025-01-14,Tuesday,No,1,Winter,Salem Farm,194,194,301,519,Pongal,No,598,No
+Malligai,2025-10-02,Thursday,No,10,Autumn,Houser,151,151,1655,3566,Navaratri,No,3600,No
+Paneer Roja,2025-07-09,Wednesday,No,7,Monsoon,Vazhapadi Farm,37,37,267,544,,No,515,No
+Samanthi,2025-06-03,Tuesday,No,6,Summer,Sankagiri Traders,85,85,106,379,,No,359,No
+Arali,2025-03-12,Wednesday,No,3,Spring,Sankagiri Traders,223,223,441,950,,Yes,1010,No
+Roja,2025-02-10,Monday,No,2,Winter,Vazhapadi Farm,59,59,151,456,,No,432,No
+Malligai,2025-09-04,Thursday,No,9,Monsoon,Salem Farm,87,87,1542,1756,,No,1720,No
+Jaathi Malligai,2025-06-08,Sunday,Yes,6,Summer,Sankagiri Traders,163,163,1225,2401,,Yes,2442,Yes
+Arali,2025-10-03,Friday,No,10,Autumn,Vazhapadi Farm,127,127,429,873,Navaratri,No,920,No
+Lotus,2025-10-19,Sunday,Yes,10,Autumn,Houser,59,59,382,432,,No,413,Yes
+Lotus,2025-03-24,Monday,No,3,Spring,Namakkal Link Market,75,75,553,826,,No,791,No
+Vada Malligai,2025-05-18,Sunday,Yes,5,Summer,Vazhapadi Farm,28,28,708,825,,No,814,Yes
+Arali,2025-01-20,Monday,No,1,Winter,Sankagiri Traders,159,159,282,615,,Yes,662,No
+Lotus,2025-01-18,Saturday,Yes,1,Winter,Attur Market,58,58,477,762,,No,727,Yes
+Roja,2025-12-18,Thursday,No,12,Winter,Houser,20,20,141,386,,No,352,No
+Vada Malligai,2025-06-04,Wednesday,No,6,Summer,Omalur Garden,93,93,1269,1502,,No,1492,No
+Arali,2025-09-15,Monday,No,9,Monsoon,Salem Farm,84,84,398,709,,No,680,No
+Jaathi Malligai,2025-11-08,Saturday,Yes,11,Autumn,Sankagiri Traders,54,54,1738,2088,,No,2076,Yes
+Chemparuthi,2025-08-01,Friday,No,8,Monsoon,Sankagiri Traders,30,30,77,287,,No,264,No
+Lotus,2025-03-03,Monday,No,3,Spring,Namakkal Link Market,44,44,591,911,,No,889,No
+Arali,2025-01-10,Friday,No,1,Winter,Salem Farm,89,89,335,655,,No,633,No
+Lotus,2025-10-08,Wednesday,No,10,Autumn,Attur Market,31,31,510,772,,No,741,No
+Malligai,2025-09-16,Tuesday,No,9,Monsoon,Salem Farm,84,84,2075,2232,,No,2218,No
+Samanthi,2025-04-19,Saturday,Yes,4,Spring,Vazhapadi Farm,56,56,101,393,,No,370,Yes
+Samanthi,2025-08-19,Tuesday,No,8,Monsoon,Sankagiri Traders,65,65,79,306,,No,292,No
+Roja,2025-10-05,Sunday,Yes,10,Autumn,Attur Market,75,75,104,470,,No,453,Yes
+Samanthi,2025-05-18,Sunday,Yes,5,Summer,Vazhapadi Farm,78,78,134,215,,No,188,Yes
+Vada Malligai,2025-08-19,Tuesday,No,8,Monsoon,Attur Market,90,90,1387,1580,,No,1550,No
+Lotus,2025-11-26,Wednesday,No,11,Autumn,Houser,60,60,593,987,,No,963,No
+Paneer Roja,2025-03-26,Wednesday,No,3,Spring,Vazhapadi Farm,92,92,242,610,,No,570,No
+Chemparuthi,2025-07-30,Wednesday,No,7,Monsoon,Vazhapadi Farm,97,97,54,370,,No,337,No
+Chemparuthi,2025-09-12,Friday,No,9,Monsoon,Namakkal,69,69,88,463,,No,423,No
+Lotus,2025-04-20,Sunday,Yes,4,Spring,Namakkal,38,38,466,632,,No,620,Yes
+Paneer Roja,2025-12-19,Friday,No,12,Winter,Attur Market,81,81,158,411,,No,394,No
+Chemparuthi,2025-10-10,Friday,No,10,Autumn,Vazhapadi Farm,94,94,73,293,,No,254,No
+Paneer Roja,2025-04-25,Friday,No,4,Spring,Namakkal Link Market,58,58,153,306,,No,266,No
+Malligai,2025-07-02,Wednesday,No,7,Monsoon,Attur Market,50,50,1518,1690,,No,1667,No
+Chemparuthi,2025-01-29,Wednesday,No,1,Winter,Omalur Garden,58,58,60,157,,No,144,No
+Lotus,2025-12-14,Sunday,Yes,12,Winter,Attur Market,47,47,496,584,,No,552,Yes
+Kanakambaram,2025-07-17,Thursday,No,7,Monsoon,Sankagiri Traders,40,40,623,996,,No,971,No
+Kanakambaram,2025-11-03,Monday,No,11,Autumn,Namakkal Link Market,54,54,683,810,,No,777,No
+Samanthi,2025-12-11,Thursday,No,12,Winter,Vazhapadi Farm,92,92,139,304,,No,288,No
+Roja,2025-01-17,Friday,No,1,Winter,Houser,98,98,158,251,,No,231,No
+Paneer Roja,2025-09-18,Thursday,No,9,Monsoon,Namakkal,96,96,327,636,,No,609,No
+Chemparuthi,2025-09-17,Wednesday,No,9,Monsoon,Namakkal Link Market,86,86,111,366,,No,333,No
+Malligai,2025-09-27,Saturday,Yes,9,Monsoon,Vazhapadi Farm,59,59,1919,2151,,No,2129,Yes
+Vada Malligai,2025-05-23,Friday,No,5,Summer,Omalur Garden,88,88,1068,1436,,No,1415,No
+Vada Malligai,2025-05-06,Tuesday,No,5,Summer,Salem Farm,98,98,1007,1332,,No,1316,No
+Thulasi Poo,2025-03-17,Monday,No,3,Spring,Mettur Farm,73,73,188,424,,No,392,No
+Malligai,2025-01-14,Tuesday,No,1,Winter,Sankagiri Traders,230,230,1742,3492,Pongal,No,3516,No
+Samanthi,2025-12-28,Sunday,Yes,12,Winter,Salem Farm,29,29,103,487,,No,452,Yes
+Samanthi,2025-01-19,Sunday,Yes,1,Winter,Houser,45,45,71,267,,No,251,Yes
+Jaathi Malligai,2025-09-21,Sunday,Yes,9,Monsoon,Namakkal Link Market,20,20,1250,1349,,No,1338,Yes
+Chemparuthi,2025-09-24,Wednesday,No,9,Monsoon,Mettur Farm,68,68,116,216,,No,188,No
+Thulasi Poo,2025-07-15,Tuesday,No,7,Monsoon,Vazhapadi Farm,77,77,211,520,,No,506,No
+Arali,2025-04-06,Sunday,Yes,4,Spring,Omalur Garden,21,21,467,767,,No,740,Yes
+Lotus,2025-05-27,Tuesday,No,5,Summer,Vazhapadi Farm,31,31,433,555,,No,544,No
+Vada Malligai,2025-07-31,Thursday,No,7,Monsoon,Sankagiri Traders,22,22,1327,1505,,No,1475,No
+Thulasi Poo,2025-06-06,Friday,No,6,Summer,Attur Market,93,93,186,321,,No,289,No
+Jaathi Malligai,2025-01-10,Friday,No,1,Winter,Vazhapadi Farm,55,55,1242,1543,,No,1505,No
+Thulasi Poo,2025-08-19,Tuesday,No,8,Monsoon,Vazhapadi Farm,73,73,232,530,,No,520,No
+Samanthi,2025-10-25,Saturday,Yes,10,Autumn,Sankagiri Traders,62,62,104,311,,No,281,Yes
+Jaathi Malligai,2025-07-02,Wednesday,No,7,Monsoon,Vazhapadi Farm,27,27,1727,1989,,No,1963,No
+Paneer Roja,2025-02-14,Friday,No,2,Winter,Attur Market,96,96,169,249,,No,223,No
+Kanakambaram,2025-11-25,Tuesday,No,11,Autumn,Namakkal Link Market,211,211,845,1280,Karthigai Deepam,No,1320,No
+Jaathi Malligai,2025-11-25,Tuesday,No,11,Autumn,Salem Farm,234,234,1798,3653,Karthigai Deepam,No,3719,No
+Paneer Roja,2025-02-27,Thursday,No,2,Winter,Mettur Farm,41,41,326,535,,No,510,No
+Thulasi Poo,2025-09-25,Thursday,No,9,Monsoon,Attur Market,37,37,120,173,,No,163,No
+Arali,2025-11-16,Sunday,Yes,11,Autumn,Namakkal Link Market,38,38,425,512,,No,499,Yes
+Thulasi Poo,2025-09-10,Wednesday,No,9,Monsoon,Mettur Farm,71,71,120,469,,No,433,No
+Lotus,2025-05-18,Sunday,Yes,5,Summer,Namakkal,79,79,615,820,,No,796,Yes
+Lotus,2025-07-10,Thursday,No,7,Monsoon,Namakkal Link Market,79,79,536,720,,No,683,No
+Lotus,2025-09-21,Sunday,Yes,9,Monsoon,Vazhapadi Farm,64,64,442,752,,No,742,Yes
+Kanakambaram,2025-04-12,Saturday,Yes,4,Spring,Omalur Garden,90,90,589,771,,No,744,Yes
+Vada Malligai,2025-06-08,Sunday,Yes,6,Summer,Mettur Farm,167,167,1309,2333,,Yes,2369,Yes
+Roja,2025-12-06,Saturday,Yes,12,Winter,Sankagiri Traders,24,24,119,487,,No,476,Yes
+Arali,2025-08-02,Saturday,Yes,8,Monsoon,Houser,82,82,391,614,,No,574,Yes
+Kanakambaram,2025-08-23,Saturday,Yes,8,Monsoon,Salem Farm,30,30,920,1289,,No,1277,Yes
+Jaathi Malligai,2025-02-16,Sunday,Yes,2,Winter,Vazhapadi Farm,37,37,1794,1895,,No,1860,Yes
+Malligai,2025-11-17,Monday,No,11,Autumn,Attur Market,44,44,1841,1906,,No,1878,No
+Arali,2025-11-25,Tuesday,No,11,Autumn,Salem Farm,121,121,449,791,Karthigai Deepam,No,830,No
+Chemparuthi,2025-11-27,Thursday,No,11,Autumn,Vazhapadi Farm,37,37,69,376,,No,364,No
+Thulasi Poo,2025-05-27,Tuesday,No,5,Summer,Namakkal Link Market,36,36,170,351,,No,331,No
+Arali,2025-12-25,Thursday,No,12,Winter,Omalur Garden,91,91,479,650,,No,615,No
+Vada Malligai,2025-08-31,Sunday,Yes,8,Monsoon,Salem Farm,72,72,720,1030,,No,1001,Yes
+Vada Malligai,2025-10-20,Monday,No,10,Autumn,Omalur Garden,75,75,1332,1403,,No,1370,No
+Kanakambaram,2025-10-17,Friday,No,10,Autumn,Namakkal Link Market,76,76,770,837,,No,826,No
+Paneer Roja,2025-08-12,Tuesday,No,8,Monsoon,Namakkal,97,97,283,579,,No,563,No
+Vada Malligai,2025-12-19,Friday,No,12,Winter,Namakkal,58,58,759,835,,No,811,No
+Vada Malligai,2025-02-28,Friday,No,2,Winter,Vazhapadi Farm,37,37,712,855,,No,821,No
+Samanthi,2025-11-17,Monday,No,11,Autumn,Salem Farm,96,96,80,203,,No,180,No
+Chemparuthi,2025-09-09,Tuesday,No,9,Monsoon,Namakkal,34,34,109,425,,No,402,No
+Kanakambaram,2025-01-15,Wednesday,No,1,Winter,Namakkal,44,44,531,784,,No,745,No
+Roja,2025-03-31,Monday,No,3,Spring,Vazhapadi Farm,60,60,95,378,,No,367,No
+Chemparuthi,2025-06-14,Saturday,Yes,6,Summer,Omalur Garden,55,55,83,168,,No,146,Yes
+Thulasi Poo,2025-01-07,Tuesday,No,1,Winter,Mettur Farm,70,70,111,474,,No,461,No
+Samanthi,2025-01-27,Monday,No,1,Winter,Vazhapadi Farm,91,91,118,494,,No,478,No
+Lotus,2025-08-18,Monday,No,8,Monsoon,Salem Farm,37,37,408,559,,No,536,No
+Kanakambaram,2025-08-16,Saturday,Yes,8,Monsoon,Namakkal Link Market,144,144,963,1844,Krishna Jayanthi,No,1876,Yes
+Jaathi Malligai,2025-06-11,Wednesday,No,6,Summer,Sankagiri Traders,37,37,1686,1861,,No,1830,No
+Chemparuthi,2025-07-29,Tuesday,No,7,Monsoon,Omalur Garden,28,28,78,302,,No,284,No
+Thulasi Poo,2025-08-25,Monday,No,8,Monsoon,Houser,36,36,170,220,,No,195,No
+Arali,2025-03-29,Saturday,Yes,3,Spring,Vazhapadi Farm,50,50,417,555,,No,531,Yes
+Chemparuthi,2025-05-02,Friday,No,5,Summer,Sankagiri Traders,100,100,69,267,,No,248,No
+Lotus,2025-05-02,Friday,No,5,Summer,Namakkal,85,85,513,753,,No,724,No
+Kanakambaram,2025-12-12,Friday,No,12,Winter,Vazhapadi Farm,25,25,964,1037,,No,1024,No
+Jaathi Malligai,2025-12-27,Saturday,Yes,12,Winter,Attur Market,55,55,1525,1874,,No,1835,Yes
+Roja,2025-09-16,Tuesday,No,9,Monsoon,Attur Market,20,20,104,167,,No,130,No
+Malligai,2025-12-27,Saturday,Yes,12,Winter,Sankagiri Traders,57,57,1661,1958,,No,1933,Yes
+Lotus,2025-06-24,Tuesday,No,6,Summer,Omalur Garden,50,50,663,763,,No,753,No
+Samanthi,2025-11-23,Sunday,Yes,11,Autumn,Attur Market,85,85,95,189,,No,155,Yes
+Thulasi Poo,2025-11-06,Thursday,No,11,Autumn,Salem Farm,25,25,154,522,,No,506,No
+Paneer Roja,2025-01-20,Monday,No,1,Winter,Namakkal,197,197,200,673,,Yes,736,No
+Vada Malligai,2025-11-21,Friday,No,11,Autumn,Salem Farm,98,98,1359,1734,,No,1714,No
+Samanthi,2025-10-12,Sunday,Yes,10,Autumn,Vazhapadi Farm,157,157,77,404,,Yes,435,Yes
+Thulasi Poo,2025-07-08,Tuesday,No,7,Monsoon,Mettur Farm,63,63,155,548,,No,524,No
+Lotus,2025-04-08,Tuesday,No,4,Spring,Sankagiri Traders,89,89,606,910,,No,897,No
+Kanakambaram,2025-01-28,Tuesday,No,1,Winter,Mettur Farm,33,33,620,723,,No,688,No
+Chemparuthi,2025-11-10,Monday,No,11,Autumn,Mettur Farm,62,62,72,430,,No,408,No
+Lotus,2025-09-13,Saturday,Yes,9,Monsoon,Houser,62,62,344,436,,No,426,Yes
+Malligai,2025-09-06,Saturday,Yes,9,Monsoon,Houser,31,31,1430,1612,,No,1579,Yes
+Chemparuthi,2025-06-05,Thursday,No,6,Summer,Vazhapadi Farm,62,62,82,193,,No,177,No
+Chemparuthi,2025-12-07,Sunday,Yes,12,Winter,Attur Market,195,195,78,502,,Yes,552,Yes
+Lotus,2025-08-12,Tuesday,No,8,Monsoon,Mettur Farm,41,41,645,947,,No,927,No
+Paneer Roja,2025-06-28,Saturday,Yes,6,Summer,Namakkal Link Market,22,22,279,386,,No,360,Yes
+Vada Malligai,2025-02-11,Tuesday,No,2,Winter,Sankagiri Traders,86,86,760,1211,Thaipusam,No,1246,No
+Roja,2025-02-23,Sunday,Yes,2,Winter,Sankagiri Traders,100,100,134,206,,No,174,Yes
+Kanakambaram,2025-11-21,Friday,No,11,Autumn,Salem Farm,61,61,608,771,,No,745,No
+Jaathi Malligai,2025-04-13,Sunday,Yes,4,Spring,Omalur Garden,65,65,1054,1301,,No,1276,Yes
+Arali,2025-04-13,Sunday,Yes,4,Spring,Sankagiri Traders,66,66,242,334,,No,298,Yes
+Jaathi Malligai,2025-10-24,Friday,No,10,Autumn,Vazhapadi Farm,46,46,1274,1485,,No,1455,No
+Paneer Roja,2025-06-05,Thursday,No,6,Summer,Attur Market,40,40,183,390,,No,376,No
+Vada Malligai,2025-10-03,Friday,No,10,Autumn,Namakkal Link Market,225,225,1191,1982,Navaratri,No,2010,No
+Paneer Roja,2025-09-17,Wednesday,No,9,Monsoon,Omalur Garden,51,51,219,293,,No,255,No
+Jaathi Malligai,2025-10-13,Monday,No,10,Autumn,Namakkal,24,24,1570,1881,,No,1851,No
+Vada Malligai,2025-12-29,Monday,No,12,Winter,Attur Market,99,99,775,836,,No,815,No
+Arali,2025-10-24,Friday,No,10,Autumn,Mettur Farm,25,25,394,455,,No,435,No
+Thulasi Poo,2025-04-16,Wednesday,No,4,Spring,Salem Farm,25,25,202,272,,No,257,No
+Vada Malligai,2025-02-26,Wednesday,No,2,Winter,Namakkal,101,101,1129,2002,Shivaratri,No,2063,No
+Vada Malligai,2025-03-13,Thursday,No,3,Spring,Omalur Garden,99,99,885,1056,,No,1043,No
+Vada Malligai,2025-03-16,Sunday,Yes,3,Spring,Vazhapadi Farm,56,56,805,968,,No,944,Yes
+Roja,2025-04-01,Tuesday,No,4,Spring,Namakkal,62,62,148,352,,No,321,No
+Roja,2025-03-15,Saturday,Yes,3,Spring,Namakkal Link Market,34,34,114,298,,No,272,Yes
+Jaathi Malligai,2025-03-04,Tuesday,No,3,Spring,Namakkal,68,68,1620,1692,,No,1682,No
+Chemparuthi,2025-07-15,Tuesday,No,7,Monsoon,Namakkal Link Market,74,74,57,111,,No,94,No
+Malligai,2025-08-26,Tuesday,No,8,Monsoon,Salem Farm,54,54,1629,1712,,No,1677,No
+Malligai,2025-11-12,Wednesday,No,11,Autumn,Attur Market,21,21,1267,1492,,No,1482,No
+Thulasi Poo,2025-04-03,Thursday,No,4,Spring,Sankagiri Traders,68,68,123,260,,No,242,No
+Roja,2025-01-15,Wednesday,No,1,Winter,Vazhapadi Farm,38,38,104,368,,No,339,No
+Arali,2025-07-04,Friday,No,7,Monsoon,Mettur Farm,83,83,465,584,,No,572,No
+Kanakambaram,2025-02-26,Wednesday,No,2,Winter,Namakkal Link Market,196,196,867,1804,Shivaratri,No,1836,No
+Roja,2025-09-08,Monday,No,9,Monsoon,Sankagiri Traders,51,51,130,327,,No,297,No
+Paneer Roja,2025-12-04,Thursday,No,12,Winter,Sankagiri Traders,72,72,302,396,,No,372,No
+Roja,2025-04-28,Monday,No,4,Spring,Omalur Garden,53,53,106,191,,No,158,No
+Kanakambaram,2025-07-20,Sunday,Yes,7,Monsoon,Vazhapadi Farm,84,84,538,816,,No,794,Yes
+Lotus,2025-09-02,Tuesday,No,9,Monsoon,Mettur Farm,26,26,401,610,,No,596,No
+Chemparuthi,2025-01-22,Wednesday,No,1,Winter,Houser,53,53,60,385,,No,371,No
+Paneer Roja,2025-01-31,Friday,No,1,Winter,Salem Farm,98,98,324,515,,No,494,No
+Samanthi,2025-12-12,Friday,No,12,Winter,Houser,55,55,126,428,,No,410,No
+Arali,2025-03-13,Thursday,No,3,Spring,Namakkal Link Market,66,66,404,737,,No,724,No
+Roja,2025-10-29,Wednesday,No,10,Autumn,Mettur Farm,97,97,153,513,,No,491,No
+Vada Malligai,2025-09-05,Friday,No,9,Monsoon,Salem Farm,94,94,1208,1604,,No,1572,No
+Roja,2025-05-29,Thursday,No,5,Summer,Namakkal Link Market,86,86,165,301,,No,279,No
+Kanakambaram,2025-10-15,Wednesday,No,10,Autumn,Namakkal,91,91,698,753,,No,727,No
+Vada Malligai,2025-12-28,Sunday,Yes,12,Winter,Namakkal,60,60,1212,1602,,No,1562,Yes
+Chemparuthi,2025-06-29,Sunday,Yes,6,Summer,Salem Farm,43,43,62,454,,No,416,Yes
+Jaathi Malligai,2025-11-01,Saturday,Yes,11,Autumn,Namakkal Link Market,116,116,1577,2869,Deepavali,No,2915,Yes
+Chemparuthi,2025-04-14,Monday,No,4,Spring,Mettur Farm,92,92,72,269,Tamil New Year,No,336,No
+Paneer Roja,2025-11-30,Sunday,Yes,11,Autumn,Vazhapadi Farm,53,53,180,260,,No,245,Yes
+Malligai,2025-02-02,Sunday,Yes,2,Winter,Salem Farm,85,85,1628,2558,,Yes,2589,Yes
+Lotus,2025-06-17,Tuesday,No,6,Summer,Houser,44,44,356,507,,No,494,No
+Malligai,2025-03-05,Wednesday,No,3,Spring,Sankagiri Traders,33,33,1977,2370,,No,2330,No
+Roja,2025-10-02,Thursday,No,10,Autumn,Namakkal,201,201,154,701,Navaratri,No,735,No
+Jaathi Malligai,2025-10-04,Saturday,Yes,10,Autumn,Sankagiri Traders,110,110,1423,2787,Navaratri,No,2838,Yes
+Kanakambaram,2025-02-24,Monday,No,2,Winter,Namakkal Link Market,92,92,911,1123,,No,1104,No
+Jaathi Malligai,2025-01-29,Wednesday,No,1,Winter,Vazhapadi Farm,65,65,1287,1353,,No,1320,No
+Samanthi,2025-06-16,Monday,No,6,Summer,Namakkal Link Market,25,25,113,329,,No,290,No
+Thulasi Poo,2025-11-01,Saturday,Yes,11,Autumn,Mettur Farm,119,119,215,624,Deepavali,No,677,Yes
+Paneer Roja,2025-05-07,Wednesday,No,5,Summer,Omalur Garden,87,87,326,455,,No,420,No
+Lotus,2025-07-05,Saturday,Yes,7,Monsoon,Salem Farm,72,72,405,493,,No,463,Yes
+Chemparuthi,2025-02-11,Tuesday,No,2,Winter,Namakkal Link Market,171,171,88,320,Thaipusam,No,393,No
+Samanthi,2025-08-05,Tuesday,No,8,Monsoon,Omalur Garden,32,32,124,497,,No,474,No
+Kanakambaram,2025-09-11,Thursday,No,9,Monsoon,Attur Market,98,98,587,900,,No,884,No
+Lotus,2025-05-04,Sunday,Yes,5,Summer,Sankagiri Traders,41,41,439,523,,No,512,Yes
+Arali,2025-10-16,Thursday,No,10,Autumn,Namakkal,77,77,349,582,,No,561,No
+Roja,2025-08-22,Friday,No,8,Monsoon,Namakkal,38,38,135,373,,No,337,No
+Thulasi Poo,2025-06-26,Thursday,No,6,Summer,Sankagiri Traders,57,57,110,295,,No,270,No
+Paneer Roja,2025-08-16,Saturday,Yes,8,Monsoon,Sankagiri Traders,159,159,328,827,Krishna Jayanthi,No,856,Yes
+Kanakambaram,2025-01-10,Friday,No,1,Winter,Mettur Farm,45,45,561,940,,No,924,No
+Samanthi,2025-02-24,Monday,No,2,Winter,Mettur Farm,62,62,63,356,,No,325,No
+Jaathi Malligai,2025-03-24,Monday,No,3,Spring,Sankagiri Traders,58,58,1307,1436,,No,1399,No
+Chemparuthi,2025-10-06,Monday,No,10,Autumn,Vazhapadi Farm,51,51,103,292,,No,277,No
+Vada Malligai,2025-03-15,Saturday,Yes,3,Spring,Omalur Garden,63,63,831,1159,,No,1132,Yes
+Samanthi,2025-10-22,Wednesday,No,10,Autumn,Omalur Garden,26,26,61,298,,No,263,No
+Thulasi Poo,2025-01-10,Friday,No,1,Winter,Attur Market,66,66,223,542,,No,504,No
+Chemparuthi,2025-02-21,Friday,No,2,Winter,Salem Farm,69,69,53,111,,No,88,No
+Vada Malligai,2025-11-16,Sunday,Yes,11,Autumn,Omalur Garden,37,37,793,1058,,No,1032,Yes
+Kanakambaram,2025-03-24,Monday,No,3,Spring,Namakkal,89,89,716,1017,,No,978,No
+Chemparuthi,2025-08-23,Saturday,Yes,8,Monsoon,Sankagiri Traders,38,38,52,315,,No,302,Yes
+Roja,2025-09-18,Thursday,No,9,Monsoon,Namakkal Link Market,79,79,114,508,,No,482,No
+Paneer Roja,2025-03-06,Thursday,No,3,Spring,Attur Market,52,52,225,392,,No,371,No
+Arali,2025-10-23,Thursday,No,10,Autumn,Salem Farm,89,89,363,481,,No,447,No
+Paneer Roja,2025-11-24,Monday,No,11,Autumn,Salem Farm,78,78,206,502,,No,475,No
+Thulasi Poo,2025-06-08,Sunday,Yes,6,Summer,Namakkal Link Market,223,223,212,902,,Yes,932,Yes
+Chemparuthi,2025-12-20,Saturday,Yes,12,Winter,Vazhapadi Farm,98,98,54,139,,No,103,Yes
+Jaathi Malligai,2025-03-07,Friday,No,3,Spring,Vazhapadi Farm,28,28,1378,1437,,No,1423,No
+Kanakambaram,2025-08-20,Wednesday,No,8,Monsoon,Mettur Farm,50,50,968,1158,,No,1120,No
+Kanakambaram,2025-01-14,Tuesday,No,1,Winter,Namakkal,237,237,748,1907,Pongal,No,1982,No
+Samanthi,2025-02-08,Saturday,Yes,2,Winter,Omalur Garden,93,93,83,164,,No,143,Yes
+Roja,2025-03-28,Friday,No,3,Spring,Namakkal,87,87,117,205,,No,195,No
+Vada Malligai,2025-10-21,Tuesday,No,10,Autumn,Vazhapadi Farm,71,71,1027,1085,,No,1073,No
+Lotus,2025-03-23,Sunday,Yes,3,Spring,Salem Farm,62,62,684,835,,No,809,Yes
+Arali,2025-09-29,Monday,No,9,Monsoon,Attur Market,50,50,344,551,,No,535,No
+Arali,2025-12-29,Monday,No,12,Winter,Mettur Farm,70,70,435,757,,No,728,No
+Lotus,2025-04-04,Friday,No,4,Spring,Sankagiri Traders,86,86,394,699,,No,665,No
+Samanthi,2025-12-22,Monday,No,12,Winter,Attur Market,50,50,118,478,,No,443,No
+Paneer Roja,2025-03-11,Tuesday,No,3,Spring,Mettur Farm,36,36,316,555,,No,539,No
+Roja,2025-11-02,Sunday,Yes,11,Autumn,Sankagiri Traders,75,75,90,368,,No,336,Yes
+Vada Malligai,2025-09-20,Saturday,Yes,9,Monsoon,Mettur Farm,28,28,1378,1627,,No,1592,Yes
+Vada Malligai,2025-11-19,Wednesday,No,11,Autumn,Vazhapadi Farm,70,70,830,986,,No,976,No
+Vada Malligai,2025-07-04,Friday,No,7,Monsoon,Sankagiri Traders,78,78,799,922,,No,887,No
+Lotus,2025-10-17,Friday,No,10,Autumn,Namakkal,81,81,668,917,,No,898,No
+Thulasi Poo,2025-10-22,Wednesday,No,10,Autumn,Houser,22,22,162,310,,No,277,No
+Thulasi Poo,2025-03-30,Sunday,Yes,3,Spring,Houser,59,59,192,387,,No,358,Yes
+Roja,2025-12-15,Monday,No,12,Winter,Vazhapadi Farm,21,21,90,214,,No,192,No
+Vada Malligai,2025-10-22,Wednesday,No,10,Autumn,Attur Market,80,80,947,1093,,No,1065,No
+Roja,2025-09-13,Saturday,Yes,9,Monsoon,Sankagiri Traders,95,95,143,232,,No,216,Yes
+Chemparuthi,2025-02-28,Friday,No,2,Winter,Omalur Garden,53,53,77,159,,No,121,No
+Malligai,2025-05-06,Tuesday,No,5,Summer,Attur Market,64,64,1358,1626,,No,1600,No
+Jaathi Malligai,2025-04-14,Monday,No,4,Spring,Namakkal,139,139,1498,2695,Tamil New Year,No,2748,No
+Samanthi,2025-06-22,Sunday,Yes,6,Summer,Vazhapadi Farm,27,27,80,246,,No,219,Yes
+Jaathi Malligai,2025-07-24,Thursday,No,7,Monsoon,Salem Farm,94,94,1291,1651,,No,1634,No
+Kanakambaram,2025-12-11,Thursday,No,12,Winter,Houser,39,39,503,659,,No,627,No
+Samanthi,2025-07-28,Monday,No,7,Monsoon,Vazhapadi Farm,33,33,68,314,,No,289,No
+Roja,2025-10-07,Tuesday,No,10,Autumn,Mettur Farm,29,29,130,455,,No,444,No
+Vada Malligai,2025-01-14,Tuesday,No,1,Winter,Namakkal Link Market,189,189,1367,2142,Pongal,No,2181,No
+Malligai,2025-04-16,Wednesday,No,4,Spring,Houser,36,36,1680,1975,,No,1936,No
+Paneer Roja,2025-08-08,Friday,No,8,Monsoon,Namakkal Link Market,56,56,244,411,,No,388,No
+Kanakambaram,2025-01-27,Monday,No,1,Winter,Houser,64,64,922,1258,,No,1223,No
+Chemparuthi,2025-04-25,Friday,No,4,Spring,Namakkal,59,59,94,212,,No,178,No
+Kanakambaram,2025-11-29,Saturday,Yes,11,Autumn,Salem Farm,33,33,780,1004,,No,977,Yes
+Kanakambaram,2025-06-01,Sunday,Yes,6,Summer,Salem Farm,23,23,663,899,,No,887,Yes
+Lotus,2025-06-18,Wednesday,No,6,Summer,Vazhapadi Farm,52,52,347,671,,No,637,No
+Chemparuthi,2025-10-03,Friday,No,10,Autumn,Namakkal,82,82,81,335,Navaratri,No,380,No
+Kanakambaram,2025-03-12,Wednesday,No,3,Spring,Namakkal Link Market,228,228,786,1182,,Yes,1230,No
+Arali,2025-06-07,Saturday,Yes,6,Summer,Sankagiri Traders,53,53,293,490,,No,468,Yes
+Vada Malligai,2025-08-07,Thursday,No,8,Monsoon,Namakkal,84,84,837,992,,No,978,No
+Thulasi Poo,2025-09-05,Friday,No,9,Monsoon,Omalur Garden,25,25,231,610,,No,591,No
+Roja,2025-03-10,Monday,No,3,Spring,Sankagiri Traders,20,20,124,217,,No,188,No
+Jaathi Malligai,2025-12-15,Monday,No,12,Winter,Namakkal Link Market,76,76,1385,1555,,No,1539,No
+Kanakambaram,2025-06-15,Sunday,Yes,6,Summer,Omalur Garden,87,87,791,930,,No,907,Yes
+Chemparuthi,2025-02-01,Saturday,Yes,2,Winter,Vazhapadi Farm,61,61,117,415,,No,377,Yes
+Arali,2025-11-08,Saturday,Yes,11,Autumn,Sankagiri Traders,53,53,438,731,,No,695,Yes
+Chemparuthi,2025-10-14,Tuesday,No,10,Autumn,Houser,89,89,72,339,,No,305,No
+Arali,2025-02-11,Tuesday,No,2,Winter,Omalur Garden,166,166,446,1310,Thaipusam,No,1369,No
+Lotus,2025-04-17,Thursday,No,4,Spring,Attur Market,33,33,446,515,,No,505,No
+Lotus,2025-03-18,Tuesday,No,3,Spring,Namakkal,87,87,623,1004,,No,969,No
+Roja,2025-05-16,Friday,No,5,Summer,Mettur Farm,43,43,168,465,,No,453,No
+Chemparuthi,2025-02-20,Thursday,No,2,Winter,Salem Farm,38,38,95,256,,No,219,No
+Vada Malligai,2025-12-21,Sunday,Yes,12,Winter,Salem Farm,90,90,958,1185,,No,1164,Yes
+Thulasi Poo,2025-02-03,Monday,No,2,Winter,Attur Market,39,39,174,330,,No,302,No
+Thulasi Poo,2025-11-23,Sunday,Yes,11,Autumn,Namakkal,33,33,187,241,,No,229,Yes
+Vada Malligai,2025-09-08,Monday,No,9,Monsoon,Omalur Garden,67,67,1387,1703,,No,1669,No
+Lotus,2025-09-23,Tuesday,No,9,Monsoon,Sankagiri Traders,29,29,504,621,,No,595,No
+Vada Malligai,2025-08-08,Friday,No,8,Monsoon,Namakkal,82,82,771,1116,,No,1076,No
+Kanakambaram,2025-02-17,Monday,No,2,Winter,Salem Farm,45,45,549,702,,No,684,No
+Jaathi Malligai,2025-04-29,Tuesday,No,4,Spring,Sankagiri Traders,69,69,1605,1797,,No,1767,No
+Malligai,2025-04-01,Tuesday,No,4,Spring,Namakkal,49,49,1895,2110,,No,2074,No
+Paneer Roja,2025-03-29,Saturday,Yes,3,Spring,Mettur Farm,72,72,271,491,,No,474,Yes
+Thulasi Poo,2025-05-09,Friday,No,5,Summer,Attur Market,99,99,214,465,,No,447,No
+Malligai,2025-01-03,Friday,No,1,Winter,Sankagiri Traders,30,30,1288,1666,,No,1655,No
+Arali,2025-02-05,Wednesday,No,2,Winter,Salem Farm,92,92,294,583,,No,559,No
+Chemparuthi,2025-09-07,Sunday,Yes,9,Monsoon,Mettur Farm,22,22,118,323,,No,288,Yes
+Arali,2025-03-09,Sunday,Yes,3,Spring,Vazhapadi Farm,41,41,281,482,,No,461,Yes
+Thulasi Poo,2025-03-12,Wednesday,No,3,Spring,Vazhapadi Farm,192,192,107,392,,Yes,418,No
+Thulasi Poo,2025-10-03,Friday,No,10,Autumn,Vazhapadi Farm,128,128,204,477,Navaratri,No,552,No
+Jaathi Malligai,2025-03-11,Tuesday,No,3,Spring,Mettur Farm,59,59,1770,1986,,No,1957,No
+Lotus,2025-10-23,Thursday,No,10,Autumn,Mettur Farm,54,54,628,976,,No,937,No
+Kanakambaram,2025-09-04,Thursday,No,9,Monsoon,Namakkal,49,49,806,1128,,No,1117,No
+Kanakambaram,2025-05-17,Saturday,Yes,5,Summer,Omalur Garden,56,56,618,795,,No,778,Yes
+Thulasi Poo,2025-07-28,Monday,No,7,Monsoon,Omalur Garden,57,57,106,396,,No,380,No
+Paneer Roja,2025-11-16,Sunday,Yes,11,Autumn,Salem Farm,88,88,250,375,,No,341,Yes
+Malligai,2025-03-21,Friday,No,3,Spring,Attur Market,67,67,1844,1912,,No,1891,No
+Vada Malligai,2025-07-09,Wednesday,No,7,Monsoon,Attur Market,55,55,1171,1392,,No,1352,No
+Lotus,2025-05-01,Thursday,No,5,Summer,Salem Farm,92,92,603,839,,No,828,No
+Roja,2025-03-26,Wednesday,No,3,Spring,Omalur Garden,57,57,178,448,,No,411,No
+Paneer Roja,2025-04-28,Monday,No,4,Spring,Namakkal Link Market,74,74,273,657,,No,628,No
+Lotus,2025-02-02,Sunday,Yes,2,Winter,Omalur Garden,249,249,533,1151,,Yes,1194,Yes
+Malligai,2025-04-18,Friday,No,4,Spring,Salem Farm,68,68,1361,1672,,No,1650,No
+Paneer Roja,2025-04-03,Thursday,No,4,Spring,Namakkal,68,68,346,638,,No,620,No
+Roja,2025-06-13,Friday,No,6,Summer,Houser,94,94,154,288,,No,266,No
+Thulasi Poo,2025-10-07,Tuesday,No,10,Autumn,Sankagiri Traders,62,62,140,224,,No,206,No
+Chemparuthi,2025-10-12,Sunday,Yes,10,Autumn,Sankagiri Traders,185,185,75,613,,Yes,634,Yes
+Samanthi,2025-05-31,Saturday,Yes,5,Summer,Houser,93,93,64,124,,No,97,Yes
+Roja,2025-02-09,Sunday,Yes,2,Winter,Salem Farm,47,47,91,247,,No,229,Yes
+Chemparuthi,2025-11-14,Friday,No,11,Autumn,Attur Market,50,50,88,267,,No,242,No
+Paneer Roja,2025-05-04,Sunday,Yes,5,Summer,Omalur Garden,93,93,183,559,,No,537,Yes
+Thulasi Poo,2025-05-21,Wednesday,No,5,Summer,Namakkal Link Market,25,25,209,368,,No,328,No
+Thulasi Poo,2025-06-12,Thursday,No,6,Summer,Namakkal,23,23,147,278,,No,252,No
+Roja,2025-11-15,Saturday,Yes,11,Autumn,Namakkal,23,23,167,335,,No,300,Yes
+Thulasi Poo,2025-08-31,Sunday,Yes,8,Monsoon,Namakkal,26,26,240,347,,No,324,Yes
+Arali,2025-11-12,Wednesday,No,11,Autumn,Attur Market,77,77,297,551,,No,535,No
+Chemparuthi,2025-10-11,Saturday,Yes,10,Autumn,Vazhapadi Farm,80,80,83,483,,No,456,Yes
+Paneer Roja,2025-05-24,Saturday,Yes,5,Summer,Salem Farm,82,82,165,305,,No,273,Yes
+Arali,2025-09-03,Wednesday,No,9,Monsoon,Salem Farm,42,42,272,583,,No,558,No
+Lotus,2025-09-24,Wednesday,No,9,Monsoon,Mettur Farm,84,84,349,440,,No,419,No
+Thulasi Poo,2025-04-02,Wednesday,No,4,Spring,Namakkal,23,23,245,509,,No,474,No
+Malligai,2025-01-24,Friday,No,1,Winter,Houser,61,61,1978,2073,,No,2040,No
+Vada Malligai,2025-11-09,Sunday,Yes,11,Autumn,Vazhapadi Farm,20,20,942,1049,,No,1023,Yes
+Kanakambaram,2025-09-01,Monday,No,9,Monsoon,Vazhapadi Farm,28,28,654,766,,No,727,No
+Roja,2025-05-25,Sunday,Yes,5,Summer,Mettur Farm,59,59,82,381,,No,369,Yes
+Samanthi,2025-05-28,Wednesday,No,5,Summer,Vazhapadi Farm,67,67,61,252,,No,232,No
+Thulasi Poo,2025-02-08,Saturday,Yes,2,Winter,Attur Market,53,53,213,509,,No,491,Yes
+Roja,2025-05-23,Friday,No,5,Summer,Salem Farm,50,50,170,372,,No,355,No
+Kanakambaram,2025-05-26,Monday,No,5,Summer,Vazhapadi Farm,40,40,755,1032,,No,1005,No
+Vada Malligai,2025-06-06,Friday,No,6,Summer,Namakkal Link Market,26,26,1300,1360,,No,1328,No
+Jaathi Malligai,2025-10-09,Thursday,No,10,Autumn,Sankagiri Traders,56,56,1575,1968,,No,1931,No
+Arali,2025-05-21,Wednesday,No,5,Summer,Namakkal,69,69,379,689,,No,650,No
+Malligai,2025-12-14,Sunday,Yes,12,Winter,Namakkal,70,70,1312,1504,,No,1490,Yes
+Jaathi Malligai,2025-11-14,Friday,No,11,Autumn,Attur Market,80,80,1552,1632,,No,1596,No
+Malligai,2025-05-25,Sunday,Yes,5,Summer,Attur Market,22,22,1870,1989,,No,1960,Yes
+Kanakambaram,2025-04-26,Saturday,Yes,4,Spring,Namakkal Link Market,81,81,998,1163,,No,1126,Yes
+Lotus,2025-04-24,Thursday,No,4,Spring,Attur Market,94,94,602,927,,No,888,No
+Vada Malligai,2025-03-14,Friday,No,3,Spring,Salem Farm,88,88,1318,1453,,No,1442,No
+Vada Malligai,2025-05-03,Saturday,Yes,5,Summer,Salem Farm,93,93,750,1038,,No,1010,Yes
+Vada Malligai,2025-12-13,Saturday,Yes,12,Winter,Attur Market,31,31,801,1005,,No,995,Yes
+Paneer Roja,2025-11-12,Wednesday,No,11,Autumn,Vazhapadi Farm,38,38,178,256,,No,245,No
+Roja,2025-07-17,Thursday,No,7,Monsoon,Mettur Farm,37,37,116,245,,No,215,No
+Lotus,2025-08-25,Monday,No,8,Monsoon,Sankagiri Traders,59,59,486,855,,No,841,No
+Arali,2025-06-29,Sunday,Yes,6,Summer,Houser,34,34,260,344,,No,311,Yes
+Samanthi,2025-03-26,Wednesday,No,3,Spring,Mettur Farm,73,73,134,479,,No,454,No
+Vada Malligai,2025-02-01,Saturday,Yes,2,Winter,Omalur Garden,90,90,913,1004,,No,974,Yes
+Roja,2025-02-13,Thursday,No,2,Winter,Houser,27,27,139,508,,No,479,No
+Arali,2025-03-11,Tuesday,No,3,Spring,Houser,43,43,274,658,,No,619,No
+Samanthi,2025-12-17,Wednesday,No,12,Winter,Mettur Farm,60,60,79,234,,No,215,No
+Jaathi Malligai,2025-12-07,Sunday,Yes,12,Winter,Omalur Garden,228,228,1788,3130,,Yes,3194,Yes
+Roja,2025-03-12,Wednesday,No,3,Spring,Attur Market,234,234,134,502,,Yes,531,No
+Paneer Roja,2025-04-14,Monday,No,4,Spring,Sankagiri Traders,207,207,221,476,Tamil New Year,No,506,No
+Vada Malligai,2025-04-16,Wednesday,No,4,Spring,Vazhapadi Farm,55,55,733,1112,,No,1079,No
+Samanthi,2025-12-20,Saturday,Yes,12,Winter,Salem Farm,29,29,103,397,,No,380,Yes
+Thulasi Poo,2025-04-27,Sunday,Yes,4,Spring,Mettur Farm,61,61,136,376,,No,344,Yes
+Samanthi,2025-08-16,Saturday,Yes,8,Monsoon,Namakkal,156,156,130,597,Krishna Jayanthi,No,676,Yes
+Vada Malligai,2025-10-02,Thursday,No,10,Autumn,Salem Farm,101,101,809,1965,Navaratri,No,2042,No
+Lotus,2025-01-22,Wednesday,No,1,Winter,Sankagiri Traders,29,29,408,726,,No,687,No
+Paneer Roja,2025-10-31,Friday,No,10,Autumn,Omalur Garden,83,83,309,396,,No,385,No
+Chemparuthi,2025-08-04,Monday,No,8,Monsoon,Mettur Farm,90,90,54,245,,No,208,No
+Arali,2025-05-30,Friday,No,5,Summer,Salem Farm,38,38,226,545,,No,528,No
+Lotus,2025-12-05,Friday,No,12,Winter,Namakkal Link Market,85,85,588,971,,No,951,No
+Vada Malligai,2025-08-06,Wednesday,No,8,Monsoon,Salem Farm,61,61,1297,1420,,No,1381,No
+Thulasi Poo,2025-06-07,Saturday,Yes,6,Summer,Houser,62,62,238,413,,No,386,Yes
+Thulasi Poo,2025-08-07,Thursday,No,8,Monsoon,Namakkal,69,69,164,502,,No,479,No
+Kanakambaram,2025-10-01,Wednesday,No,10,Autumn,Omalur Garden,92,92,846,1211,,No,1186,No
+Kanakambaram,2025-03-11,Tuesday,No,3,Spring,Vazhapadi Farm,27,27,566,769,,No,755,No
+Chemparuthi,2025-03-10,Monday,No,3,Spring,Sankagiri Traders,73,73,120,466,,No,442,No
+Thulasi Poo,2025-07-10,Thursday,No,7,Monsoon,Attur Market,94,94,224,279,,No,254,No
+Chemparuthi,2025-12-10,Wednesday,No,12,Winter,Salem Farm,78,78,72,350,,No,314,No
+Chemparuthi,2025-05-12,Monday,No,5,Summer,Vazhapadi Farm,33,33,107,282,,No,267,No
+Samanthi,2025-07-27,Sunday,Yes,7,Monsoon,Mettur Farm,85,85,91,158,,No,122,Yes
+Kanakambaram,2025-03-05,Wednesday,No,3,Spring,Salem Farm,32,32,919,1110,,No,1081,No
+Chemparuthi,2025-03-19,Wednesday,No,3,Spring,Namakkal,79,79,107,416,,No,380,No
+Arali,2025-03-25,Tuesday,No,3,Spring,Vazhapadi Farm,68,68,288,382,,No,342,No
+Samanthi,2025-04-15,Tuesday,No,4,Spring,Vazhapadi Farm,26,26,72,225,,No,190,No
+Jaathi Malligai,2025-01-15,Wednesday,No,1,Winter,Namakkal Link Market,36,36,1097,1242,,No,1205,No
+Vada Malligai,2025-04-11,Friday,No,4,Spring,Namakkal Link Market,74,74,971,1340,,No,1304,No
+Lotus,2025-09-30,Tuesday,No,9,Monsoon,Mettur Farm,75,75,594,867,,No,836,No
+Arali,2025-12-09,Tuesday,No,12,Winter,Namakkal Link Market,23,23,307,445,,No,431,No
+Arali,2025-05-01,Thursday,No,5,Summer,Attur Market,56,56,241,334,,No,324,No
+Samanthi,2025-09-13,Saturday,Yes,9,Monsoon,Omalur Garden,77,77,99,290,,No,255,Yes
+Jaathi Malligai,2025-08-20,Wednesday,No,8,Monsoon,Vazhapadi Farm,85,85,1028,1314,,No,1296,No
+Paneer Roja,2025-10-12,Sunday,Yes,10,Autumn,Vazhapadi Farm,176,176,202,547,,Yes,584,Yes
+Arali,2025-07-20,Sunday,Yes,7,Monsoon,Sankagiri Traders,31,31,434,636,,No,597,Yes
+Kanakambaram,2025-08-31,Sunday,Yes,8,Monsoon,Attur Market,29,29,663,1008,,No,988,Yes
+Roja,2025-07-13,Sunday,Yes,7,Monsoon,Attur Market,75,75,122,237,,No,211,Yes
+Paneer Roja,2025-03-21,Friday,No,3,Spring,Houser,58,58,236,467,,No,455,No
+Vada Malligai,2025-04-17,Thursday,No,4,Spring,Namakkal,83,83,1230,1293,,No,1259,No
+Thulasi Poo,2025-06-21,Saturday,Yes,6,Summer,Houser,69,69,124,524,,No,512,Yes
+Lotus,2025-11-21,Friday,No,11,Autumn,Vazhapadi Farm,51,51,392,767,,No,744,No
+Thulasi Poo,2025-06-11,Wednesday,No,6,Summer,Salem Farm,22,22,205,399,,No,366,No
+Kanakambaram,2025-12-24,Wednesday,No,12,Winter,Mettur Farm,68,68,728,930,,No,890,No
+Chemparuthi,2025-06-08,Sunday,Yes,6,Summer,Houser,144,144,73,476,,Yes,532,Yes
+Arali,2025-05-15,Thursday,No,5,Summer,Namakkal Link Market,22,22,480,831,,No,793,No
+Paneer Roja,2025-12-06,Saturday,Yes,12,Winter,Mettur Farm,86,86,208,328,,No,291,Yes
+Kanakambaram,2025-08-26,Tuesday,No,8,Monsoon,Salem Farm,98,98,869,1220,,No,1192,No
+Thulasi Poo,2025-09-23,Tuesday,No,9,Monsoon,Mettur Farm,58,58,227,286,,No,276,No
+Chemparuthi,2025-04-09,Wednesday,No,4,Spring,Omalur Garden,31,31,115,433,,No,419,No
+Chemparuthi,2025-12-30,Tuesday,No,12,Winter,Houser,89,89,64,127,,No,104,No
+Samanthi,2025-05-25,Sunday,Yes,5,Summer,Sankagiri Traders,76,76,132,323,,No,310,Yes
+Arali,2025-03-20,Thursday,No,3,Spring,Vazhapadi Farm,82,82,343,660,,No,635,No
+Roja,2025-01-25,Saturday,Yes,1,Winter,Omalur Garden,20,20,90,164,,No,126,Yes
+Samanthi,2025-03-17,Monday,No,3,Spring,Omalur Garden,88,88,119,430,,No,393,No
+Malligai,2025-12-03,Wednesday,No,12,Winter,Mettur Farm,46,46,1730,2050,,No,2029,No
+Vada Malligai,2025-01-20,Monday,No,1,Winter,Mettur Farm,174,174,717,1195,,Yes,1227,No
+Jaathi Malligai,2025-02-02,Sunday,Yes,2,Winter,Namakkal Link Market,155,155,1673,3229,,Yes,3258,Yes
+Jaathi Malligai,2025-11-02,Sunday,Yes,11,Autumn,Vazhapadi Farm,36,36,1362,1687,,No,1677,Yes
+Lotus,2025-01-03,Friday,No,1,Winter,Vazhapadi Farm,96,96,553,870,,No,840,No
+Lotus,2025-08-16,Saturday,Yes,8,Monsoon,Houser,172,172,429,955,Krishna Jayanthi,No,1034,Yes
+Thulasi Poo,2025-02-11,Tuesday,No,2,Winter,Vazhapadi Farm,206,206,181,544,Thaipusam,No,565,No
+Malligai,2025-11-03,Monday,No,11,Autumn,Houser,62,62,2149,2201,,No,2184,No
+Thulasi Poo,2025-12-02,Tuesday,No,12,Winter,Houser,60,60,205,271,,No,237,No
+Samanthi,2025-03-04,Tuesday,No,3,Spring,Namakkal,57,57,101,292,,No,282,No
+Arali,2025-07-05,Saturday,Yes,7,Monsoon,Mettur Farm,79,79,400,712,,No,678,Yes
+Arali,2025-07-10,Thursday,No,7,Monsoon,Attur Market,95,95,492,607,,No,573,No
+Samanthi,2025-07-08,Tuesday,No,7,Monsoon,Omalur Garden,28,28,116,511,,No,473,No
+Malligai,2025-10-31,Friday,No,10,Autumn,Attur Market,42,42,1990,2322,,No,2287,No
+Paneer Roja,2025-10-03,Friday,No,10,Autumn,Sankagiri Traders,182,182,306,1090,Navaratri,No,1152,No
+Vada Malligai,2025-03-21,Friday,No,3,Spring,Namakkal,31,31,1373,1604,,No,1581,No
+Chemparuthi,2025-03-27,Thursday,No,3,Spring,Salem Farm,79,79,57,186,,No,149,No
+Vada Malligai,2025-02-02,Sunday,Yes,2,Winter,Mettur Farm,208,208,1231,1752,,Yes,1811,Yes
+Vada Malligai,2025-04-03,Thursday,No,4,Spring,Attur Market,39,39,851,981,,No,941,No
+Malligai,2025-03-12,Wednesday,No,3,Spring,Attur Market,96,96,1585,2671,,Yes,2750,No
+Lotus,2025-10-27,Monday,No,10,Autumn,Sankagiri Traders,69,69,317,606,,No,593,No
+Roja,2025-05-17,Saturday,Yes,5,Summer,Salem Farm,90,90,144,491,,No,457,Yes
+Samanthi,2025-02-04,Tuesday,No,2,Winter,Vazhapadi Farm,25,25,106,208,,No,189,No
+Jaathi Malligai,2025-12-30,Tuesday,No,12,Winter,Mettur Farm,90,90,1776,2033,,No,2019,No
+Samanthi,2025-07-23,Wednesday,No,7,Monsoon,Omalur Garden,34,34,76,244,,No,221,No
+Samanthi,2025-06-04,Wednesday,No,6,Summer,Namakkal Link Market,72,72,84,451,,No,412,No
+Chemparuthi,2025-02-03,Monday,No,2,Winter,Salem Farm,51,51,105,344,,No,316,No
+Paneer Roja,2025-11-18,Tuesday,No,11,Autumn,Omalur Garden,54,54,233,624,,No,590,No
+Chemparuthi,2025-10-22,Wednesday,No,10,Autumn,Attur Market,77,77,66,265,,No,251,No
+Paneer Roja,2025-02-24,Monday,No,2,Winter,Attur Market,68,68,201,378,,No,355,No
+Thulasi Poo,2025-07-07,Monday,No,7,Monsoon,Sankagiri Traders,63,63,159,252,,No,227,No
+Arali,2025-03-07,Friday,No,3,Spring,Namakkal,40,40,479,753,,No,716,No
+Malligai,2025-03-18,Tuesday,No,3,Spring,Attur Market,85,85,1417,1604,,No,1571,No
+Samanthi,2025-07-26,Saturday,Yes,7,Monsoon,Vazhapadi Farm,97,97,70,435,,No,415,Yes
+Arali,2025-04-12,Saturday,Yes,4,Spring,Namakkal Link Market,64,64,446,789,,No,754,Yes
+Samanthi,2025-03-19,Wednesday,No,3,Spring,Salem Farm,48,48,97,487,,No,466,No
+Paneer Roja,2025-06-14,Saturday,Yes,6,Summer,Sankagiri Traders,58,58,151,461,,No,438,Yes
+Lotus,2025-03-12,Wednesday,No,3,Spring,Sankagiri Traders,246,246,445,860,,Yes,911,No
+Malligai,2025-11-22,Saturday,Yes,11,Autumn,Salem Farm,74,74,1424,1800,,No,1786,Yes
+Malligai,2025-09-02,Tuesday,No,9,Monsoon,Sankagiri Traders,52,52,1386,1486,,No,1456,No
+Jaathi Malligai,2025-06-01,Sunday,Yes,6,Summer,Vazhapadi Farm,20,20,1279,1350,,No,1326,Yes
+Arali,2025-12-06,Saturday,Yes,12,Winter,Vazhapadi Farm,77,77,263,551,,No,533,Yes
+Samanthi,2025-09-21,Sunday,Yes,9,Monsoon,Attur Market,73,73,69,304,,No,266,Yes
+Vada Malligai,2025-05-09,Friday,No,5,Summer,Omalur Garden,52,52,1032,1368,,No,1344,No
+Malligai,2025-08-08,Friday,No,8,Monsoon,Salem Farm,82,82,1901,2187,,No,2170,No
+Jaathi Malligai,2025-11-13,Thursday,No,11,Autumn,Houser,30,30,1578,1770,,No,1748,No
+Samanthi,2025-08-24,Sunday,Yes,8,Monsoon,Houser,86,86,103,568,,Yes,611,Yes
+Lotus,2025-11-19,Wednesday,No,11,Autumn,Mettur Farm,92,92,318,589,,No,565,No
+Kanakambaram,2025-05-03,Saturday,Yes,5,Summer,Sankagiri Traders,33,33,812,1040,,No,1006,Yes
+Arali,2025-10-02,Thursday,No,10,Autumn,Houser,185,185,331,817,Navaratri,No,857,No
+Lotus,2025-12-18,Thursday,No,12,Winter,Sankagiri Traders,62,62,338,670,,No,652,No
+Samanthi,2025-10-14,Tuesday,No,10,Autumn,Namakkal Link Market,88,88,61,288,,No,276,No
+Chemparuthi,2025-11-15,Saturday,Yes,11,Autumn,Namakkal,33,33,80,169,,No,150,Yes
+Roja,2025-08-08,Friday,No,8,Monsoon,Vazhapadi Farm,74,74,85,391,,No,358,No
+Vada Malligai,2025-01-01,Wednesday,No,1,Winter,Omalur Garden,94,94,852,937,,No,906,No
+Jaathi Malligai,2025-12-20,Saturday,Yes,12,Winter,Sankagiri Traders,84,84,1738,1844,,No,1824,Yes
+Arali,2025-07-29,Tuesday,No,7,Monsoon,Mettur Farm,63,63,479,767,,No,757,No
+Paneer Roja,2025-04-29,Tuesday,No,4,Spring,Namakkal Link Market,30,30,345,558,,No,540,No
+Samanthi,2025-03-18,Tuesday,No,3,Spring,Mettur Farm,56,56,116,212,,No,189,No
+Thulasi Poo,2025-01-02,Thursday,No,1,Winter,Salem Farm,74,74,108,291,,No,264,No
+Malligai,2025-08-16,Saturday,Yes,8,Monsoon,Salem Farm,107,107,1928,2711,Krishna Jayanthi,No,2774,Yes
+Arali,2025-11-21,Friday,No,11,Autumn,Namakkal Link Market,93,93,235,551,,No,539,No
+Chemparuthi,2025-01-12,Sunday,Yes,1,Winter,Mettur Farm,23,23,88,339,,No,303,Yes
+Paneer Roja,2025-02-28,Friday,No,2,Winter,Salem Farm,53,53,252,621,,No,609,No
+Paneer Roja,2025-02-02,Sunday,Yes,2,Winter,Namakkal Link Market,240,240,229,539,,Yes,591,Yes
+Roja,2025-12-07,Sunday,Yes,12,Winter,Omalur Garden,195,195,92,327,,Yes,389,Yes
+Lotus,2025-06-25,Wednesday,No,6,Summer,Sankagiri Traders,34,34,343,556,,No,538,No
+Arali,2025-06-02,Monday,No,6,Summer,Mettur Farm,30,30,283,476,,No,454,No
+Vada Malligai,2025-09-17,Wednesday,No,9,Monsoon,Namakkal Link Market,95,95,776,922,,No,884,No
+Vada Malligai,2025-11-29,Saturday,Yes,11,Autumn,Vazhapadi Farm,31,31,1160,1328,,No,1317,Yes
+Paneer Roja,2025-08-31,Sunday,Yes,8,Monsoon,Vazhapadi Farm,46,46,261,423,,No,392,Yes
+Lotus,2025-11-01,Saturday,Yes,11,Autumn,Attur Market,169,169,612,1093,Deepavali,No,1137,Yes
+Thulasi Poo,2025-09-24,Wednesday,No,9,Monsoon,Attur Market,68,68,145,312,,No,299,No
+Arali,2025-04-02,Wednesday,No,4,Spring,Namakkal,47,47,342,598,,No,561,No
+Malligai,2025-03-16,Sunday,Yes,3,Spring,Namakkal,72,72,1572,1685,,No,1665,Yes
+Roja,2025-04-21,Monday,No,4,Spring,Houser,74,74,91,282,,No,243,No
+Vada Malligai,2025-03-17,Monday,No,3,Spring,Salem Farm,52,52,1220,1368,,No,1343,No
+Thulasi Poo,2025-07-03,Thursday,No,7,Monsoon,Namakkal Link Market,67,67,218,582,,No,557,No
+Vada Malligai,2025-11-11,Tuesday,No,11,Autumn,Namakkal,60,60,848,1110,,No,1089,No
+Vada Malligai,2025-04-14,Monday,No,4,Spring,Houser,156,156,779,1979,Tamil New Year,No,2049,No
+Thulasi Poo,2025-12-28,Sunday,Yes,12,Winter,Omalur Garden,29,29,168,283,,No,266,Yes
+Chemparuthi,2025-06-25,Wednesday,No,6,Summer,Houser,24,24,54,110,,No,87,No
+Paneer Roja,2025-10-28,Tuesday,No,10,Autumn,Attur Market,23,23,246,572,,No,536,No
+Kanakambaram,2025-05-20,Tuesday,No,5,Summer,Sankagiri Traders,45,45,958,1238,,No,1210,No
+Malligai,2025-02-26,Wednesday,No,2,Winter,Attur Market,193,193,1910,3507,Shivaratri,No,3548,No
+Jaathi Malligai,2025-06-09,Monday,No,6,Summer,Houser,22,22,1764,1999,,No,1959,No
+Lotus,2025-10-18,Saturday,Yes,10,Autumn,Omalur Garden,57,57,649,901,,No,871,Yes
+Arali,2025-08-16,Saturday,Yes,8,Monsoon,Namakkal Link Market,192,192,466,968,Krishna Jayanthi,No,1027,Yes
+Kanakambaram,2025-06-06,Friday,No,6,Summer,Mettur Farm,88,88,889,1175,,No,1148,No
+Kanakambaram,2025-01-18,Saturday,Yes,1,Winter,Mettur Farm,68,68,582,864,,No,833,Yes
+Samanthi,2025-08-30,Saturday,Yes,8,Monsoon,Salem Farm,58,58,88,311,,No,293,Yes
+Lotus,2025-08-17,Sunday,Yes,8,Monsoon,Sankagiri Traders,80,80,507,778,,No,754,Yes
+Kanakambaram,2025-02-21,Friday,No,2,Winter,Attur Market,92,92,646,888,,No,877,No
+Vada Malligai,2025-08-24,Sunday,Yes,8,Monsoon,Mettur Farm,155,155,947,1972,,Yes,2014,Yes
+Thulasi Poo,2025-07-12,Saturday,Yes,7,Monsoon,Mettur Farm,58,58,209,409,,No,376,Yes
+Paneer Roja,2025-05-19,Monday,No,5,Summer,Mettur Farm,26,26,191,347,,No,327,No
+Jaathi Malligai,2025-06-10,Tuesday,No,6,Summer,Attur Market,74,74,1796,2083,,No,2051,No
+Chemparuthi,2025-06-01,Sunday,Yes,6,Summer,Salem Farm,100,100,108,448,,No,426,Yes
