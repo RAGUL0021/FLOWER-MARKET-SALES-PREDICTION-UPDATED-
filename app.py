@@ -17,12 +17,12 @@ except:
     XGBOOST_AVAILABLE = False
 
 
-st.title("🌸 Flower Market Demand & Price Prediction System")
+st.title(" Flower Market Demand & Price Prediction System")
 
 # LOAD DATASET
 df = pd.read_csv("Flower_market_dataset.csv")
 
-st.subheader("📊 Full Dataset")
+st.subheader(" Full Dataset")
 st.dataframe(df)
 
 
@@ -76,7 +76,7 @@ df["Supplier_Encoded"] = le_supplier.fit_transform(df["Supplier"])
 # VISUALIZATION
 
 # PIE CHART
-st.subheader("📊 Season-wise Demand")
+st.subheader(" Season-wise Demand")
 
 season_demand = (
     df.groupby("Season")["Quantity_Sold_kg"]
@@ -91,7 +91,7 @@ st.pyplot(fig1)
 
 
 # BAR CHART
-st.subheader("📊 Season-wise Flower-wise Demand")
+st.subheader(" Season-wise Flower-wise Demand")
 
 season_flower_demand = (
     df.groupby(["Season", "Flower_Type"])["Quantity_Sold_kg"]
@@ -141,7 +141,7 @@ if XGBOOST_AVAILABLE:
         random_state=42
     )
 
-st.subheader("📊 Model Performance")
+st.subheader(" Model Performance")
 
 results = []
 trained_models = {}
@@ -184,7 +184,7 @@ price_model.fit(X, y_price)
 
 
 # PRICE GRAPH
-st.subheader("📊 Season-wise Flower Price Prediction")
+st.subheader(" Season-wise Flower Price Prediction")
 
 df["Predicted_Price"] = price_model.predict(X)
 
@@ -200,7 +200,7 @@ st.pyplot(fig3)
 
 
 # LIVE PREDICTION
-st.subheader("🔮 Live Prediction")
+st.subheader(" Live Prediction")
 
 flower_input = st.selectbox("Flower Type", le_flower.classes_)
 season_input = st.selectbox("Season", valid_seasons)
@@ -234,14 +234,14 @@ if st.button("Predict"):
     pred_demand = best_demand_model.predict(input_df)[0]
     pred_price = price_model.predict(input_df)[0]
 
-    st.success(f"📦 Predicted Demand: {pred_demand:.2f} kg")
-    st.success(f"💰 Predicted Price: ₹{pred_price:.2f}")
+    st.success(f" Predicted Demand: {pred_demand:.2f} kg")
+    st.success(f" Predicted Price: ₹{pred_price:.2f}")
 
 
 # NEXT DAY PREDICTION
 from datetime import datetime, timedelta
 
-st.subheader("📅 Next Day Prediction")
+st.subheader(" Next Day Prediction")
 
 if st.button("Predict Next Day"):
 
@@ -266,5 +266,5 @@ if st.button("Predict Next Day"):
 
     st.info(f"Date: {next_day.strftime('%Y-%m-%d')}")
     st.info(f"Season: {next_season}")
-    st.success(f"📦 Next Day Demand: {next_demand:.2f} kg")
-    st.success(f"💰 Next Day Price: ₹{next_price:.2f}")
+    st.success(f" Next Day Demand: {next_demand:.2f} kg")
+    st.success(f" Next Day Price: ₹{next_price:.2f}")
